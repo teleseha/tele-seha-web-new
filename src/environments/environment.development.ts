@@ -1,7 +1,7 @@
 export class Environment {
   public static readonly production = false;
 
-  public static readonly apiUrl = 'https://teleseha5-001-site1.ftempurl.com';
+  public static readonly apiUrl = 'https://telesehaapi.runasp.net';
   //public static readonly apiUrl = 'http://localhost:5159';
 
   // public static readonly agoraApiGenerateUrl = 'https://agora-generate-token.vercel.app';

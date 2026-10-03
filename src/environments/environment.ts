@@ -1,7 +1,7 @@
 export class Environment {
   public static readonly production = false;
 
-  public static readonly apiUrl = 'https://teleseha5-001-site1.ftempurl.com/v1';
+  public static readonly apiUrl = 'https://telesehaapi.runasp.net';
 
   // public static readonly apiUrl = 'http://localhost:5159';
 
